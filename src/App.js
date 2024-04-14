@@ -13,8 +13,10 @@ function App() {
             href="https://github.com/nadPle/dictionary-react-app"
             target="_blank"
             rel="noopener noreferrer"
-          ></a>
-          Open-source code by Nadine Plepel
+          >
+            Open-source code
+          </a>
+          by Nadine Plepel
         </footer>
       </div>
     </div>
