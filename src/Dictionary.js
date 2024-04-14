@@ -10,7 +10,8 @@ export default function Dictionary() {
   let [results, setResults] = useState(null);
 
   function handleResponse(response) {
-    setResults(response.data.meanings[0].definition);
+    console.log(response.data);
+    setResults(response.data);
   }
 
   function search(event) {
